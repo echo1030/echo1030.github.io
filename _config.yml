@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://github.com/echo1030/echo-chen.github.io 
+url: https://echo1030.github.io 
 date_format: "ordinal"
 title: Echo's Blog
 subtitle: "The best time to plant a tree is ten years ago, followed by now."
