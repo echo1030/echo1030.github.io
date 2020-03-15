@@ -114,12 +114,12 @@
         
             <li>
                 
-                    <span class="caption-skill">Bash Shell</span>
+                    <span class="caption-skill">C/C++</span>
                 
                 
                     <div class="progress">
-                        <div class="progress-bar" style="width: 90%">
-                            <span>90% </span>
+                        <div class="progress-bar" style="width: 70%">
+                            <span>70% </span>
                         </div>
                     </div>
                 
@@ -127,12 +127,12 @@
         
             <li>
                 
-                    <span class="caption-skill">C/C++</span>
+                    <span class="caption-skill">Bash Shell</span>
                 
                 
                     <div class="progress">
-                        <div class="progress-bar" style="width: 80%">
-                            <span>80% </span>
+                        <div class="progress-bar" style="width: 30%">
+                            <span>30% </span>
                         </div>
                     </div>
                 
@@ -213,7 +213,7 @@
                     <a href="javascript:window.scrollTo(0,0)" >TOP</a>
                 </li>
             </ul>
-            <a href="https://github.com/https:/echo-chen.github.io" target="_blank" aria-label="view source code">
+            <a href="https://github.com/echo1030/echo1030.github.io" target="_blank" aria-label="view source code">
                 <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
             </a>
             <ul class="site-footer-links mobile-hidden">

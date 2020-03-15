@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://echo1030.github.io 
+url: https://echo1030.github.io/ 
 date_format: "ordinal"
 title: Echo's Blog
 subtitle: "The best time to plant a tree is ten years ago, followed by now."
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: https://github.com/echo1030/echo-chen.github.io
+repository: echo1030/echo1030.github.io
 
 # ---------------- #
 #      Comments    #
