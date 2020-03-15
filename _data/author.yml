@@ -1,0 +1,64 @@
+# Author settings
+name: 陈霄霄
+title: 后端开发工程师
+email: ehco1030@163.com
+github: 
+gavatar: /assets/img/avatar.jpeg
+workHistory:
+- work3:
+  company: 新浪微博
+  started: 2019
+  title: 广告引擎开发工程师
+  duration: (2019.11 - Present)
+  description:
+
+- work2:
+  company: 北京百度网讯科技有限公司           
+  started: 2017
+  title: 软件开发工程师
+  duration: (2017.11 - 2019.9)
+  description:
+
+- work1:
+  company: 北京智能管家科技有限公司
+  started: 2017
+  title: 软件开发工程师
+  duration: (2017.3 - 2017.8)
+  description:
+
+educationHistory:
+- education2:
+  organization: 北京理工大学
+  degree: 硕士
+  major: 兵器科学与技术
+  started: 2014
+  duration: (2014.9 - 2017.3)
+- education1:
+  organization: 北京理工大学
+  degree: 硕士 Master
+  major: 探测制导与控制技术
+  started: 2010
+  duration: (2010.9 - 2014.7)
+
+languages:
+- language1:
+  name: 中文
+  proficiency: Native
+- language2:
+  name: English
+  proficiency: Medium
+
+programmingSkills:
+- CPP:
+  name: C/C++
+  percentage: 70%
+
+- Bash:
+  name: Bash Shell
+  percentage: 30%
+- Python:
+  name: Python
+  percentage: 30%
+- Go:
+  name: Golang
+  percentage: 30%
