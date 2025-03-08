@@ -18,13 +18,6 @@
   
   
     {
-      "title"    : "About",
-      "url"      : "http://localhost:4000/about/"
-    } ,
-  
-  
-  
-    {
       "title"    : "归档",
       "url"      : "http://localhost:4000/archives/"
     } ,
@@ -63,6 +56,20 @@
       "category" : "Blog",
       
       "url"      : "http://localhost:4000/2020/03/15/QA_about_github_page_and_jeklly/"
+    } ,
+  
+    {
+      "title"    : "leetcode中链表反转相关问题总结",
+      "category" : "leetcode",
+      
+      "url"      : "http://localhost:4000/2020/04/04/reserve_linked_list/"
+    } ,
+  
+    {
+      "title"    : "leetcode中链表反转相关问题总结",
+      "category" : "leetcode",
+      
+      "url"      : "http://localhost:4000/2020/04/04/reverse_linked_list/"
     } ,
   
     {

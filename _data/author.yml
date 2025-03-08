@@ -9,7 +9,7 @@ workHistory:
   company: 新浪微博
   started: 2019
   title: 广告引擎开发工程师
-  duration: (2019.11 - Present)
+  duration: (2019.11 - 2024.02)
   description:
 
 - work2:
@@ -28,15 +28,15 @@ workHistory:
 
 educationHistory:
 - education2:
-  organization: 北京理工大学
+  organization: 北京理工大学 BIT
   degree: 硕士
-  major: 兵器科学与技术
+  major: 兵器科学与技术 Armament Science and Technology
   started: 2014
   duration: (2014.9 - 2017.3)
 - education1:
-  organization: 北京理工大学
-  degree: 硕士 Master
-  major: 探测制导与控制技术
+  organization: 北京理工大学 BIT
+  degree: 学士 Bachelor
+  major: 探测制导与控制技术 Detection, Guidance, and Control Technology 
   started: 2010
   duration: (2010.9 - 2014.7)
 
