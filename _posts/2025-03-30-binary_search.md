@@ -5,7 +5,6 @@ category: leetcode
 categories: Blog
 description: 
 ---
-## 二分查找
 
 二分查找，面试中的顶流。本以为大家会喜欢考 DP 之类的，但是体验下来，竟然是以下三个类型题目更常见。
 1. 二分查找
